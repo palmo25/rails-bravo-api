@@ -42,5 +42,5 @@ Rails.application.configure do
 end
 Rails.application.routes.default_url_options = {
   host: 'localhost',
-  port: 3001
+  port: 3000
 }
